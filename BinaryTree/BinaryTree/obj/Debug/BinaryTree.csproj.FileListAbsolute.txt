@@ -1,0 +1,48 @@
+M:\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.MainForm.resources
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+M:\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+M:\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+M:\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.MainForm.resources
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\School_Files\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.MainForm.resources
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\J_dog\Desktop\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.MainForm.resources
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\James\Desktop\JamesBinary\JamesBinary\Binary Tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.MainForm.resources
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\AD1147\Desktop\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\Stuff for github\BinaryTree_JamesCamps Version2 (1)\BinaryTree_JamesCamps\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\James\Desktop\Stuff for github\BinaryTree_JamesCamps Version2 (1)\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\James\Desktop\Stuff for github\BinaryTree_JamesCamps Version2 (1)\BinaryTree_JamesCamps\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
